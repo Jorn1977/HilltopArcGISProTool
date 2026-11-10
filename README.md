@@ -6,6 +6,8 @@
 
 Downloads a Hilltop monitoring collection from a New Zealand regional council (Horizons, GWRC, TRC, NRC or Southland) and creates a WGS 1984 point feature class of the selected sites, with an optional recordings table and CSV export.
 
+https://github.com/user-attachments/assets/df332496-9df2-4a0f-bcaa-29e47e071f8f
+
 ### Usage
 
 - Start by choosing a Council. The active map zooms to that council's region and the Collection list is loaded from the council's Hilltop CollectionList service.
