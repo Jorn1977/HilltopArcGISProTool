@@ -1,6 +1,6 @@
 # Import Hilltop Collection Sites
 
-[<video src="./Hilltop_Import_Tool_LinkedIn.mp4" controls width="720"></video>](https://github.com/Jorn1977/HilltopArcGISProTool/blob/main/hilltop_thumbnail_modern.png)
+ ![Illustration](https://github.com/Jorn1977/HilltopArcGISProTool/blob/main/hilltop_thumbnail_modern.png)
 
 ### Description
 
