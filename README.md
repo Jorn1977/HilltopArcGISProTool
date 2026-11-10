@@ -36,6 +36,8 @@ Downloads a Hilltop monitoring collection from a New Zealand regional council (H
 
 - An internet connection to the selected council's Hilltop server is required.
 
+ ![Illustration](https://github.com/Jorn1977/HilltopArcGISProTool/blob/main/tool_help_sidebar.png)
+
 ### Syntax
 
 ImportHilltopCollectionSites (council, collection, collection_feature_class, {extent_filter}, {measurement}, sites, {include_last_recording}, {map_name}, map_destination, {existing_map}, {download_timeseries}, {from_date}, {to_date}, {add_timeseries_to_feature_class}, {export_timeseries_csv}, {csv_file_name}, {csv_output_folder}, output_gdb, feature_class_name)
