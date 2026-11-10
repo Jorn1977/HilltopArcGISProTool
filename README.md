@@ -1,5 +1,7 @@
 # Import Hilltop Collection Sites
 
+<video src="./Hilltop_Import_Tool_LinkedIn.mp4" controls width="720"></video>
+
 ### Description
 
 Downloads a Hilltop monitoring collection from a New Zealand regional council (Horizons, GWRC, TRC, NRC or Southland) and creates a WGS 1984 point feature class of the selected sites, with an optional recordings table and CSV export.
